@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Number Guessing Game</string>
+    <string name="info">Please enter the number of digits for your number.
+    If the number you thought of and the number random gets matched, you get a point.
+    If not, 1 life will be deducted.
+    Please note you have only 10 lifes.</string>
+    <string name="op">Please choose an option</string>
+</resources>
